@@ -17,7 +17,7 @@ public class Piramede {
 
 		        do{  
 		            flag = false; 
-		            //laço de repetição for para percorrer o vetor e ordenar do maior para o menor.
+		            //laço de repetição for para percorrer o vetor e ordenar do menor para o maior.
 		            for(int i = 1; i < linha1.length; i++){  
 		                if(linha1[i - 1] > linha1[i]){  
 		                    int temp = linha1[i -1];  
@@ -30,7 +30,7 @@ public class Piramede {
 		         		       
 		        do{  
 		            flag = false;  
-		            //laço de repetição for para percorrer o vetor e ordenar do maior para o menor.  
+		            //laço de repetição for para percorrer o vetor e ordenar do menor para o maior.  
 		            for(int i = 1; i < linha2.length; i++){  
 		                if(linha2[i - 1] > linha2[i]){  
 		                    int temp = linha2[i -1];  
@@ -43,7 +43,7 @@ public class Piramede {
 		          
 		      do{  
 		          flag = false;  
-		          //laço de repetição for para percorrer o vetor e ordenar do maior para o menor.  
+		          //laço de repetição for para percorrer o vetor e ordenar do menor para o maior.  
 		          for(int i = 1; i < linha3.length; i++){  
 		              if(linha3[i - 1] > linha3[i]){  
 		                  int temp = linha3[i -1];  
@@ -56,7 +56,7 @@ public class Piramede {
 		   
 		      do{  
 		          flag = false;  
-		          //laço de repetição for para percorrer o vetor e ordenar do maior para o menor.
+		          //laço de repetição for para percorrer o vetor e ordenar do menor para o maior.
 		          for(int i = 1; i < linha4.length; i++){  
 		              if(linha4[i - 1] > linha4[i]){  
 		                  int temp = linha4[i -1];  
