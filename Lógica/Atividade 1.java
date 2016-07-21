@@ -4,7 +4,7 @@ public class Piramede {
 	  public static void main(String args[]) {
 		  escalarPiramede();
 	  }
-	  	/*metodo para percorrer os os vetores e cada linha da piramede ordenando do maior para o menor 
+	  	/*metodo para percorrer os os vetores e cada linha da piramede ordenando do menor para o maior.
 	  	  para fazer a soma final.*/
 		  private static void escalarPiramede(){
 			  int linha1 [] =    {4}; 
